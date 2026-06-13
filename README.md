@@ -1,2 +1,15 @@
-# ai-resume-portfolio-builder
-An AI-powered web application that helps students create professional resumes, cover letters, and portfolios with personalized skill recommendations and downloadable templates.
+
+# AI Resume & Portfolio Builder
+
+## Features
+- Resume Generation
+- Portfolio Information Builder
+- Download Resume
+- Streamlit UI
+- GitHub Ready
+
+## Installation
+pip install -r requirements.txt
+
+## Run
+streamlit run app.py
